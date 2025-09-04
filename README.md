@@ -9,5 +9,4 @@ Apaixonado por tecnologia, inovação e desafios.
 - Testes automatizados (Cypress)
 
 ## 🔗 Contatos
-- [LinkedIn](https://linkedin.com/in/seu-perfil)
-- [GitHub](https://github.com/seu-usuario)
+- [LinkedIn](www.linkedin.com/in/lucascrispim03)
