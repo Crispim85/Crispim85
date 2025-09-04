@@ -1,16 +1,13 @@
-## Hi there 👋
+# Olá, eu sou Lucas 👋
 
-<!--
-**Crispim85/Crispim85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Sistemas de Informação e desenvolvedor Full Stack.  
+Apaixonado por tecnologia, inovação e desafios.
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- HTML, CSS, JavaScript, React, Node.js
+- SQL, MySQL
+- Testes automatizados (Cypress)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Contatos
+- [LinkedIn](https://linkedin.com/in/seu-perfil)
+- [GitHub](https://github.com/seu-usuario)
