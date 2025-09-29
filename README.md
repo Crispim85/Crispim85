@@ -5,7 +5,7 @@ Apaixonado por tecnologia, inovação e desafios.
 
 ## 🛠️ Skills
 - HTML, CSS, JavaScript, React, Node.js
-- SQL, MySQL
+- PostgreSQL, MySQL
 - Testes automatizados (Cypress)
 
 ## 🔗 Contatos
