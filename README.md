@@ -10,8 +10,8 @@
   - HTML5
   - CSS3
   - JavaScript
-  - C/C++
   - SQL
+  - C/C++
 </p>
 
 <p align="left">
