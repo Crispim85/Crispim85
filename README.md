@@ -7,9 +7,9 @@
 
 <p align="left">
   Linguagens & Tecnologias: 
+  - HTML5 & CSS3
   - Python
   - JavaScript
-  - SQL
   - C/C++
 </p>
 
